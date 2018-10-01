@@ -710,7 +710,7 @@ RAK.menu.upload_method.STLink.upload.tool=stlink_upload
 # Virtual COM port
 #3dprinter.menu.usb.none=None
 #3dprinter.menu.usb.CDC=CDC
-#3dprinter.menu.usb.CDC.build.enable_usb={build.usb_flags} -DUSBD_USE_CDC -DUSE_USB_FS
+#3dprinter.menu.usb.CDC.build.enable_usb={build.usb_flags}
 
 # Upload menu
 3dprinter.menu.upload_method.STLinkMethod=STLink
